@@ -9,6 +9,7 @@
   },
   "license": "ISC",
   "dependencies": {
+    "auth0-js": "^9.5.1",
     "babel-plugin-bucklescript": "^0.2.4",
     "bs-next": "^2.0.0",
     "next": "^6.0.0",

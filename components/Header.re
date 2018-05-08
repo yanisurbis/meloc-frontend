@@ -18,5 +18,6 @@ let make = _children => {
       <Next.Link href="/second">
         <a style=styles> (ReasonReact.stringToElement("Second")) </a>
       </Next.Link>
+      <Auth />
     </div>,
 };
